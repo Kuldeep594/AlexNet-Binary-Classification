@@ -17,6 +17,7 @@ This project implements a binary classification system for image data using Alex
 ## Dataset Structure
 Organize your dataset in the following structure:
 your_dataset_folder/
+
 ├── class_0/ # Images for class 0
 └── class_1/ # Images for class 1
 
